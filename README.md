@@ -3,7 +3,7 @@
     <h1> Hi there, It's Ifham Ansari<a href="https://ameenhamza.github.io/Portfolio-theme/"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/Ifham-Ansari"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front+End+Web+Developer;Python+Developer;Java+Developer;&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
+<a href="https://github.com/Ifham-Ansari"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front+End+Web+Developer;Chatbot+Developer;Java+Developer;&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
 	
 
 🤵 Front End Web And Chatbot Developer 
@@ -12,7 +12,7 @@
 
 📧  ifhamansari933@gmail.com
 
-🎨 Portfolio: https://ameenhamza.github.io/Portfolio-theme/
+🎨 Portfolio: https://portfolio-ifham.netlify.app/
 
 💼 LinkedIn: https://www.linkedin.com/in/ifham-ansari-339428225/
 
@@ -73,7 +73,7 @@
 </table>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/ifham-ansari-339428225/img src="https://img.shields.io/badge/-Ifham%20Ansari?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ifham-ansari-339428225/"><img src="https://img.shields.io/badge/-Ameen%20Hamza-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ifhamansari933@gmail.com"><img src="https://img.shields.io/badge/-ifhamansari933@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
  </p>
  
