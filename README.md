@@ -30,7 +30,7 @@
         <img src="https://fiverr-res.cloudinary.com/npm-assets/layout-server/fiverr-og-logo.5fd6463.png" width="100">
     </td>
  <td align='center' width="200">
-        <img src="https://www.linkpicture.com/q/download_337.png">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1J2O5MG33DnFSCtokouoY2DSmxKfq7-06Eg&usqp=CAU">
     </td>
  
 </tr>
@@ -40,7 +40,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="80">
     </td>
     <td align='center'>
-        <img src="https://www.linkpicture.com/q/download-1_62.png" width="80">
+        <img src="[https://www.linkpicture.com/q/download-1_62.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfdQ5Lvsc9a6gVayD-30psb0xiKl29t33DoA&usqp=CAU)" width="80">
     </td>
  <td align='center'>
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
