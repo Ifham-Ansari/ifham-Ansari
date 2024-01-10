@@ -73,7 +73,7 @@
 </table>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/ifham-ansari-339428225/"><img src="https://img.shields.io/badge/-Ifham%20Hamza-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ifham-ansari-339428225/"><img src="https://img.shields.io/badge/-Ifham%20Ansari-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ifhamansari933@gmail.com"><img src="https://img.shields.io/badge/-ifhamansari933@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
  </p>
  
