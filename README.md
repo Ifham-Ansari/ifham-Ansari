@@ -1,13 +1,18 @@
 <body>
   <div align="center">
-    <h1> Hi there, I'm Ifham Ansari<a href="https://github.com/Ifham-Ansari"></h1>
+    <h1> Hi there, It's Ifham Ansari<a href="https://ameenhamza.github.io/Portfolio-theme/"></h1>
   </div>
-	    
-📓 I’m currently learning Genrative AI... 
+<p align="center">
+<a href="https://github.com/Ifham-Ansari"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front+End+Web+Developer;Python+Developer;Java+Developer;&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
+	
 
-📧 ifhamansari933@gmail.com
+🤵 Front End Web And Chatbot Developer 
 
-📷 Instagram : https://www.instagram.com/ifham_ansari/
+📓 I’m currently learning LLM's, ML and Genrative AI... 😭
+
+📧  ifhamansari933@gmail.com
+
+🎨 Portfolio: https://ameenhamza.github.io/Portfolio-theme/
 
 💼 LinkedIn: https://www.linkedin.com/in/ifham-ansari-339428225/
 
@@ -16,48 +21,60 @@
 
 <table width="100">
 <tr>
-    <td align='center' width="200">
-        <img src="https://www.svgrepo.com/show/353648/dialogflow.svg" width="80">
+
+ <td align='center'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="80">
     </td>
 
-  <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Google_Assistant_logo.svg/1200px-Google_Assistant_logo.svg.png"  width="80">
+<td align='center' width="200">
+        <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_640.png" width="80">
     </td>
- <td align='center' width="200">
+
+<td align='center' width="200">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
     </td>
+
  <td align='center' width="200">
-        <img src="https://fiverr-res.cloudinary.com/npm-assets/layout-server/fiverr-og-logo.5fd6463.png" width="100">
+        <img src="https://www.drupal.org/files/project-images/bootstrap5.jpeg" width="80">
     </td>
+
  <td align='center' width="200">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1J2O5MG33DnFSCtokouoY2DSmxKfq7-06Eg&usqp=CAU">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" width="100">
     </td>
  
 </tr>
  
 <tr>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="80">
+
+<td align='center' width="200">
+        <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png">
     </td>
-    <td align='center'>
-        <img src="[https://www.linkpicture.com/q/download-1_62.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfdQ5Lvsc9a6gVayD-30psb0xiKl29t33DoA&usqp=CAU)" width="80">
+
+<td align='center' width="200">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="80">
     </td>
+
+<td align='center' width="200">
+        <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png">
+    </td>
+
+<td align='center' width="200">
+        <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="80">
+    </td>
+
  <td align='center'>
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
-    </td>
-     <td align='center'>
-        <img src="https://download.logo.wine/logo/Amazon_Alexa/Amazon_Alexa-Logo.wine.png">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdiuS4wdOSTmlzl6hpbsggfnf9GDqtZVGyLg&usqp=CAU" width="80">
     </td>
 
-<td align='center'>
-        <img src="https://www.linkpicture.com/q/gpt.jpg">
-    </td>
-
-	
 </tr>
  
 
     
 </table>
 </p>
+<p align="center">
+<a href="https://www.linkedin.com/in/ifham-ansari-339428225/img src="https://img.shields.io/badge/-Ifham%20Ansari?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:ifhamansari933@gmail.com"><img src="https://img.shields.io/badge/-ifhamansari933@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+ </p>
+ 
 <br>
