@@ -15,19 +15,21 @@
 
 <p align="center">
 
-🤵 AI Engineer <br><br>
+🤵 AI Engineer <br>
 
-📓 Working with LLMs, Machine Learning & Generative AI <br><br>
+📓 Working with LLMs, Machine Learning & Generative AI <br>
 
-📧 ifhamansari933@gmail.com <br><br>
+📧 ifhamansari933@gmail.com <br>
 
-🎨 Portfolio: https://ifham-ansari-portfolio.netlify.app/ <br><br>
+🎨 Portfolio: https://ifham-ansari-portfolio.netlify.app/ <br>
 
 💼 LinkedIn: https://www.linkedin.com/in/ifham-ansari-339428225/
 
 </p>
 
-<h2 align="center">🚀 Tech Stack</h2>
+<p></p>
+
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
 
@@ -45,7 +47,7 @@
       <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="70"><br>Hugging Face
     </td>
     <td align="center">
-      <img src="https://assets-global.website-files.com/63e4e6cbdcc4c835b9a0b7a8/64a6c1df5cb918f0a95c3a01_elevenlabs-logo.png" width="70"><br>ElevenLabs
+      <img src="https://www.google.com/imgres?q=eleven%20labs%20icon&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Ff%2Ff0%2FElevenLabs_logo.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AElevenLabs_logo.png&docid=0-Ipuvao0eXcFM&tbnid=trOmWpbmhCMDLM&vet=12ahUKEwiX_IyCpfyTAxVSgv0HHTLID6sQnPAOegQIXhAB..i&w=1988&h=257&hcb=2&ved=2ahUKEwiX_IyCpfyTAxVSgv0HHTLID6sQnPAOegQIXhAB" width="70"><br>ElevenLabs
     </td>
     <td align="center">
       🤖<br>Chatbot Dev
@@ -121,7 +123,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70"><br>MySQL
     </td>
     <td align="center">
-      <img src="https://render.com/static/img/logo.svg" width="70"><br>Render
+      <img src="https://images.seeklogo.com/logo-png/53/1/render-logo-png_seeklogo-532232.png" width="70"><br>Render
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70"><br>Git
