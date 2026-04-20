@@ -19,35 +19,34 @@
 
 📓 Working with LLMs, Machine Learning & Generative AI <br>
 
-📧 ifhamansari933@gmail.com <br>
+Email: ifhamansari933@gmail.com <br>
 
-🎨 Portfolio: https://ifham-ansari-portfolio.netlify.app/ <br>
+Portfolio: https://ifham-ansari-portfolio.netlify.app/ <br>
 
-💼 LinkedIn: https://www.linkedin.com/in/ifham-ansari-339428225/
+LinkedIn: https://www.linkedin.com/in/ifham-ansari-339428225/
 
 </p>
-
-<p></p>
+<br>
 
 <h2 align="center">Tech Stack</h2>
 
 <div align="center">
 
-<table width="90%">
+<table width="100%">
   
   <!-- AI STACK FIRST -->
   <tr>
     <td align="center">
-      <img src="https://openai.com/favicon.ico" width="70"><br>OpenAI
+      <img src="https://openai.com/favicon.ico" width="85"><br>OpenAI
     </td>
     <td align="center">
-      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/gemini-color.png" width="70"><br>Gemini
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/gemini-color.png" width="85"><br>Gemini
     </td>
     <td align="center">
-      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="70"><br>Hugging Face
+      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="85"><br>Hugging Face
     </td>
     <td align="center">
-      <img src="https://www.google.com/imgres?q=eleven%20labs%20icon&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Ff%2Ff0%2FElevenLabs_logo.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AElevenLabs_logo.png&docid=0-Ipuvao0eXcFM&tbnid=trOmWpbmhCMDLM&vet=12ahUKEwiX_IyCpfyTAxVSgv0HHTLID6sQnPAOegQIXhAB..i&w=1988&h=257&hcb=2&ved=2ahUKEwiX_IyCpfyTAxVSgv0HHTLID6sQnPAOegQIXhAB" width="70"><br>ElevenLabs
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/ElevenLabs_logo.png" width="85"><br>ElevenLabs
     </td>
     <td align="center">
       🤖<br>Chatbot Dev
@@ -57,76 +56,76 @@
   <!-- ML / DATA -->
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70"><br>Python
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="85"><br>Python
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="70"><br>PyTorch
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="85"><br>PyTorch
     </td>
     <td align="center">
-      <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="70"><br>Scikit-Learn
+      <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="85"><br>Scikit-Learn
     </td>
     <td align="center">
       ⚡<br>AI Automation
     </td>
     <td align="center">
-      <img src="https://cdn.worldvectorlogo.com/logos/twilio.svg" width="70"><br>Twilio
+      <img src="https://cdn.worldvectorlogo.com/logos/twilio.svg" width="85"><br>Twilio
     </td>
   </tr>
 
   <!-- BACKEND -->
   <tr>
     <td align="center">
-      <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="70"><br>FastAPI
+      <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="85"><br>FastAPI
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="70"><br>Flask
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="85"><br>Flask
     </td>
     <td align="center">
-      <img src="https://nestjs.com/img/logo-small.svg" width="70"><br>NestJS
+      <img src="https://nestjs.com/img/logo-small.svg" width="85"><br>NestJS
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="70"><br>Node.js
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="85"><br>Node.js
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="70"><br>Express
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="85"><br>Express
     </td>
   </tr>
 
   <!-- FRONTEND -->
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70"><br>React
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="85"><br>React
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="70"><br>Next.js
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="85"><br>Next.js
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70"><br>JavaScript
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="85"><br>JavaScript
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70"><br>HTML5
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="85"><br>HTML5
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70"><br>CSS3
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="85"><br>CSS3
     </td>
   </tr>
 
   <!-- DATABASE & TOOLS -->
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="70"><br>PostgreSQL
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="85"><br>PostgreSQL
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="70"><br>MongoDB
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="85"><br>MongoDB
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70"><br>MySQL
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="85"><br>MySQL
     </td>
     <td align="center">
-      <img src="https://images.seeklogo.com/logo-png/53/1/render-logo-png_seeklogo-532232.png" width="70"><br>Render
+      <img src="https://images.seeklogo.com/logo-png/53/1/render-logo-png_seeklogo-532232.png" width="85"><br>Render
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70"><br>Git
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="85"><br>Git
     </td>
   </tr>
 
