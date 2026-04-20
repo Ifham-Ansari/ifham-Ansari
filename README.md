@@ -3,16 +3,16 @@
     <h1> Hi there, It's Ifham Ansari<a href="https://ameenhamza.github.io/Portfolio-theme/"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/Ifham-Ansari"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front+End+Web+Developer;Chatbot+Developer;Machine+Learning+Engineer;&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
+<a href="https://github.com/Ifham-Ansari"><img src="https://readme-typing-svg.herokuapp.com/?lines=Chatbot+Developer;Full+Stack+Developer;AI+Engineer;Machine+Learning+Engineer;&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
 	
 
-🤵 Front End Web And Chatbot Developer 
+🤵 AI Engineer
 
-📓 I’m currently learning LLM's, ML and Genrative AI... 😭
+📓 I’m currently working with LLM's, ML and Genrative AI...
 
 📧  ifhamansari933@gmail.com
 
-🎨 Portfolio: https://portfolio-ifham.netlify.app/
+🎨 Portfolio: https://ifham-ansari-portfolio.netlify.app/
 
 💼 LinkedIn: https://www.linkedin.com/in/ifham-ansari-339428225/
 
