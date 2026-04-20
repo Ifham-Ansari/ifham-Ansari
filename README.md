@@ -17,6 +17,7 @@
 💼 LinkedIn: https://www.linkedin.com/in/ifham-ansari-339428225/
 
 <h2>🚀 Tech Stack</h2>
+<h2>🚀 Tech Stack</h2>
 
 <table width="100%">
   <tr>
@@ -33,7 +34,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80"><br>React
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="80"><br>Material UI
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="80"><br>Next.js
     </td>
   </tr>
 
@@ -45,19 +46,40 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="80"><br>Express.js
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="80"><br>MongoDB
+      <img src="https://nestjs.com/img/logo-small.svg" width="80"><br>NestJS
     </td>
+    <td align="center">
+      <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="80"><br>FastAPI
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="80"><br>Flask
+    </td>
+  </tr>
+
+  <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80"><br>Python
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="80"><br>PyTorch
     </td>
+    <td align="center">
+      <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="80"><br>Scikit-Learn
+    </td>
+    <td align="center">
+      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="80"><br>Hugging Face
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="80"><br>PostgreSQL
+    </td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="80"><br>TensorFlow
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="80"><br>MongoDB
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="80"><br>MySQL
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80"><br>Git
@@ -66,14 +88,35 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="80"><br>GitHub
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="80"><br>MySQL
+      <img src="https://render.com/static/img/logo.svg" width="80"><br>Render
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://openai.com/favicon.ico" width="80"><br>OpenAI
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="80"><br>Flask
+      <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_favicon.max-150x150.png" width="80"><br>Gemini
+    </td>
+    <td align="center">
+      <img src="https://cdn.worldvectorlogo.com/logos/twilio.svg" width="80"><br>Twilio
+    </td>
+    <td align="center">
+      <img src="https://assets-global.website-files.com/63e4e6cbdcc4c835b9a0b7a8/64a6c1df5cb918f0a95c3a01_elevenlabs-logo.png" width="80"><br>ElevenLabs
+    </td>
+    <td align="center">
+      🤖<br>Chatbot Dev
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      ⚡<br>AI Automation
     </td>
   </tr>
 </table>
- 
+
 </p>
 <p align="center">
 <a href="https://ifham-ansari-portfolio.netlify.app/"><img src="https://img.shields.io/badge/-Ifham%20Ansari-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
