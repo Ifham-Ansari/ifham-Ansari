@@ -37,7 +37,7 @@ LinkedIn: https://www.linkedin.com/in/ifham-ansari-339428225/
   <!-- AI STACK FIRST -->
   <tr>
     <td align="center">
-      <img src="https://openai.com/favicon.ico" width="85"><br>OpenAI
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZpEorzahPbwl-VzsnPE7yfHHcW_cfNOtzhvthm2UEtA&s=10" width="85"><br>OpenAI
     </td>
     <td align="center">
       <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/gemini-color.png" width="85"><br>Gemini
