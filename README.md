@@ -28,7 +28,7 @@
 </div>
 
 ---
-
+<br><br>
 ## About Me
 
 I'm an **AI Engineer** focused on building practical, production-oriented AI systems using modern LLMs, agentic workflows, RAG, and automation technologies.
@@ -48,7 +48,7 @@ I have hands-on experience building:
 I enjoy taking complex business problems and turning them into practical AI-powered solutions.
 
 ---
-
+<br><br>
 ## AI & Generative AI
 
 <div align="center">
@@ -72,9 +72,9 @@ I enjoy taking complex business problems and turning them into practical AI-powe
 </div>
 
 ---
-
+<br><br>
 ## Tech Stack
-
+<br>
 ### Languages & Backend
 
 <div align="center">
@@ -90,7 +90,7 @@ I enjoy taking complex business problems and turning them into practical AI-powe
 <img src="https://img.shields.io/badge/WebSockets-111827?style=for-the-badge&logoColor=white"/>
 
 </div>
-
+<br>
 ### Frontend
 
 <div align="center">
@@ -98,20 +98,20 @@ I enjoy taking complex business problems and turning them into practical AI-powe
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css" />
 
 </div>
-
+<br>
 ### Databases & Vector Search
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,supabase" />
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/MongoDB%20Atlas%20Vector%20Search-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/ChromaDB-111827?style=for-the-badge&logoColor=white"/>
 
 </div>
-
+<br>
 ### Automation & Integrations
 
 <div align="center">
@@ -123,14 +123,14 @@ I enjoy taking complex business problems and turning them into practical AI-powe
 <img src="https://img.shields.io/badge/Webhooks-111827?style=for-the-badge&logoColor=white"/>
 
 </div>
-
+<br>
 ### Developer Tools
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -139,7 +139,7 @@ I enjoy taking complex business problems and turning them into practical AI-powe
 </div>
 
 ---
-
+<br><br>
 ## What I Build
 
 ```text
@@ -172,15 +172,26 @@ I enjoy taking complex business problems and turning them into practical AI-powe
 ```
 
 ---
-
+<br><br>
 ## Contribution Snake
-<div align="center"> <img src="https://raw.githubusercontent.com/Ifham-Ansari/Ifham-Ansari/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"></div><br>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Ifham-Ansari/Ifham-Ansari/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Ifham-Ansari/Ifham-Ansari/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Ifham-Ansari/Ifham-Ansari/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
+
+<br><br>
 ## Current Focus
 <div align="center"> <img src="https://img.shields.io/badge/Agentic%20AI-00D9FF?style=for-the-badge&logoColor=black"/> <img src="https://img.shields.io/badge/AI%20Agents-00D9FF?style=for-the-badge&logoColor=black"/> <img src="https://img.shields.io/badge/RAG-00D9FF?style=for-the-badge&logoColor=black"/> <img src="https://img.shields.io/badge/LLM%20Applications-00D9FF?style=for-the-badge&logoColor=black"/> <img src="https://img.shields.io/badge/AI%20Automation-00D9FF?style=for-the-badge&logoColor=black"/> </div><br>
 
 ---
-
+<br><br>
 ## 🤝 Let's Connect
 <div align="center">
 
