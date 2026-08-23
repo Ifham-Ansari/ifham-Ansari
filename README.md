@@ -140,57 +140,7 @@ I enjoy taking complex business problems and turning them into practical AI-powe
 
 ---
 
-# 🚀 Featured Projects
-
-## ⚖️ Legal AI Chatbot for Pakistan Laws
-
-**Agentic RAG-based legal research assistant**
-
-- Built an **Agentic RAG** legal AI system using **5,000+ Pakistani statute documents and 70,000+ court judgments**, with intelligent retrieval, fallback handling, and permission-based third-party web search when information is unavailable in the knowledge base.
-- Built the retrieval and reasoning pipeline using **embeddings, vector search, LangChain, and LLMs** to generate context-aware responses grounded in relevant legal sources.
-
-🌐 **Live Project:**  
-https://ezqanoon.com
-
----
-
-## 🤖 AI-Powered CRM
-
-**AI-powered CRM and business automation platform**
-
-- Built an AI-powered CRM using **NestJS, Next.js, MongoDB, and n8n** for managing leads, customer interactions, and business workflows.
-- Integrated AI and workflow automation to reduce repetitive manual tasks and streamline CRM operations.
-
----
-
-## 📞 AI Voice & Calling Agents
-
-**AI-powered voice automation**
-
-- Built AI calling agents using **Twilio, ElevenLabs, FastAPI, and LLM APIs** for automated voice interactions.
-- Integrated telephony, real-time AI responses, APIs, and backend services to create automated calling workflows.
-
----
-
-## 💬 WhatsApp AI Chatbots
-
-**Conversational AI & business automation**
-
-- Developed multiple WhatsApp-based AI assistants for customer support, lead handling, and business automation.
-- Integrated LLMs with APIs, webhooks, databases, and automation workflows to enable contextual conversations and automated actions.
-
----
-
-## 📣 AI Social Media Automation
-
-**AI content generation and automated publishing**
-
-- Built AI-powered workflows for generating social media content, captions, hashtags, and post-ready content.
-- Automated social media publishing workflows using **n8n, APIs, and AI models**, reducing manual content creation and posting effort.
-
----
-
-## 🧩 What I Build
+## What I Build
 
 ```text
                      ┌──────────────────────┐
@@ -219,19 +169,21 @@ https://ezqanoon.com
                      │ Production AI System │
                      └──────────────────────┘
 
+```
+
 ---
 
-📊 GitHub Statistics
+GitHub Statistics
 <div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ifham-Ansari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ifham-Ansari&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
 <img src="https://streak-stats.demolab.com?user=Ifham-Ansari&theme=tokyonight&hide_border=true"/> </div>
-📈 Contribution Activity
+Contribution Activity
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ifham-Ansari&theme=tokyo-night&hide_border=true&area=true"/> </div>
-🐍 Contribution Snake
+Contribution Snake
 <div align="center"> <img src="https://raw.githubusercontent.com/Ifham-Ansari/Ifham-Ansari/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/> </div>
-🎯 Current Focus
+Current Focus
 <div align="center"> <img src="https://img.shields.io/badge/Agentic%20AI-00D9FF?style=for-the-badge&logoColor=black"/> <img src="https://img.shields.io/badge/AI%20Agents-00D9FF?style=for-the-badge&logoColor=black"/> <img src="https://img.shields.io/badge/RAG-00D9FF?style=for-the-badge&logoColor=black"/> <img src="https://img.shields.io/badge/LLM%20Applications-00D9FF?style=for-the-badge&logoColor=black"/> <img src="https://img.shields.io/badge/AI%20Automation-00D9FF?style=for-the-badge&logoColor=black"/> </div>
 🤝 Let's Connect
 <div align="center">
