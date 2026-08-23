@@ -28,7 +28,7 @@
 </div>
 
 ---
-<br><br>
+
 ## About Me
 
 I'm an **AI Engineer** focused on building practical, production-oriented AI systems using modern LLMs, agentic workflows, RAG, and automation technologies.
@@ -48,7 +48,7 @@ I have hands-on experience building:
 I enjoy taking complex business problems and turning them into practical AI-powered solutions.
 
 ---
-<br><br>
+
 ## AI & Generative AI
 
 <div align="center">
@@ -72,9 +72,9 @@ I enjoy taking complex business problems and turning them into practical AI-powe
 </div>
 
 ---
-<br><br>
+
 ## Tech Stack
-<br>
+
 ## Languages & Backend
 
 <div align="center">
@@ -90,7 +90,7 @@ I enjoy taking complex business problems and turning them into practical AI-powe
 <img src="https://img.shields.io/badge/WebSockets-111827?style=for-the-badge&logoColor=white"/>
 
 </div>
-<br><br>
+
 ## Frontend
 
 <div align="center">
@@ -98,7 +98,7 @@ I enjoy taking complex business problems and turning them into practical AI-powe
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css" />
 
 </div>
-<br><br>
+
 ## Databases & Vector Search
 
 <div align="center">
@@ -111,7 +111,7 @@ I enjoy taking complex business problems and turning them into practical AI-powe
 <img src="https://img.shields.io/badge/ChromaDB-111827?style=for-the-badge&logoColor=white"/>
 
 </div>
-<br><br>
+
 ## Automation & Integrations
 
 <div align="center">
@@ -123,7 +123,7 @@ I enjoy taking complex business problems and turning them into practical AI-powe
 <img src="https://img.shields.io/badge/Webhooks-111827?style=for-the-badge&logoColor=white"/>
 
 </div>
-<br><br>
+
 ## Developer Tools
 
 <div align="center">
@@ -139,7 +139,7 @@ I enjoy taking complex business problems and turning them into practical AI-powe
 </div>
 
 ---
-<br><br>
+
 ## What I Build
 
 ```text
@@ -174,12 +174,9 @@ I enjoy taking complex business problems and turning them into practical AI-powe
 ---
 
 
-<br><br>
 ## Current Focus
 <div align="center"> <img src="https://img.shields.io/badge/Agentic%20AI-00D9FF?style=for-the-badge&logoColor=black"/> <img src="https://img.shields.io/badge/AI%20Agents-00D9FF?style=for-the-badge&logoColor=black"/> <img src="https://img.shields.io/badge/RAG-00D9FF?style=for-the-badge&logoColor=black"/> <img src="https://img.shields.io/badge/LLM%20Applications-00D9FF?style=for-the-badge&logoColor=black"/> <img src="https://img.shields.io/badge/AI%20Automation-00D9FF?style=for-the-badge&logoColor=black"/> </div><br>
 
----
-<br><br>
 ## 🤝 Let's Connect
 <div align="center">
 
