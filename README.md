@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Applications;LLM+%7C+RAG+%7C+Agentic+AI;AI+Agents+%26+Automation;Chatbots+%26+Voice+Agents;Turning+Business+Problems+Into+AI+Solutions" />
 
-<br><br>
+<br>
 
 <a href="https://ifham-ansari-portfolio.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
@@ -21,14 +21,14 @@
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=Ifham-Ansari&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
-<br><br>
+<br>
 ## About Me
 
 I'm an **AI Engineer** focused on building practical, production-oriented AI systems using modern LLMs, agentic workflows, RAG, and automation technologies.
@@ -48,7 +48,7 @@ I have hands-on experience building:
 I enjoy taking complex business problems and turning them into practical AI-powered solutions.
 
 ---
-<br><br>
+<br>
 ## AI & Generative AI
 
 <div align="center">
@@ -60,7 +60,7 @@ I enjoy taking complex business problems and turning them into practical AI-powe
 <img src="https://img.shields.io/badge/Prompt%20Engineering-111827?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Embeddings-111827?style=for-the-badge&logoColor=white"/>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
@@ -72,10 +72,10 @@ I enjoy taking complex business problems and turning them into practical AI-powe
 </div>
 
 ---
-<br><br>
+<br>
 ## Tech Stack
 <br>
-### Languages & Backend
+## Languages & Backend
 
 <div align="center">
 
@@ -91,7 +91,7 @@ I enjoy taking complex business problems and turning them into practical AI-powe
 
 </div>
 <br>
-### Frontend
+## Frontend
 
 <div align="center">
 
@@ -99,7 +99,7 @@ I enjoy taking complex business problems and turning them into practical AI-powe
 
 </div>
 <br>
-### Databases & Vector Search
+## Databases & Vector Search
 
 <div align="center">
 
@@ -112,7 +112,7 @@ I enjoy taking complex business problems and turning them into practical AI-powe
 
 </div>
 <br>
-### Automation & Integrations
+## Automation & Integrations
 
 <div align="center">
 
@@ -124,7 +124,7 @@ I enjoy taking complex business problems and turning them into practical AI-powe
 
 </div>
 <br>
-### Developer Tools
+## Developer Tools
 
 <div align="center">
 
@@ -139,7 +139,7 @@ I enjoy taking complex business problems and turning them into practical AI-powe
 </div>
 
 ---
-<br><br>
+<br>
 ## What I Build
 
 ```text
@@ -172,36 +172,24 @@ I enjoy taking complex business problems and turning them into practical AI-powe
 ```
 
 ---
-<br><br>
-## Contribution Snake
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Ifham-Ansari/Ifham-Ansari/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Ifham-Ansari/Ifham-Ansari/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/Ifham-Ansari/Ifham-Ansari/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
 
 
-<br><br>
+<br>
 ## Current Focus
 <div align="center"> <img src="https://img.shields.io/badge/Agentic%20AI-00D9FF?style=for-the-badge&logoColor=black"/> <img src="https://img.shields.io/badge/AI%20Agents-00D9FF?style=for-the-badge&logoColor=black"/> <img src="https://img.shields.io/badge/RAG-00D9FF?style=for-the-badge&logoColor=black"/> <img src="https://img.shields.io/badge/LLM%20Applications-00D9FF?style=for-the-badge&logoColor=black"/> <img src="https://img.shields.io/badge/AI%20Automation-00D9FF?style=for-the-badge&logoColor=black"/> </div><br>
 
 ---
-<br><br>
+<br>
 ## 🤝 Let's Connect
 <div align="center">
 
 I'm interested in building practical AI products, intelligent automation systems,
 and AI-powered applications that solve real business problems.
 
-<br><br>
+<br>
 
 <a href="https://ifham-ansari-portfolio.netlify.app/"> <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Portfolio-00D9FF?style=for-the-badge"/> </a> <a href="https://www.linkedin.com/in/ifham-ansari-339428225/"> <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:ifhamansari933@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 
-<br><br>
+<br>
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Let's+build+something+intelligent+%F0%9F%A4%96;Always+learning.+Always+building." /> </div>
