@@ -29,27 +29,27 @@
 
 ---
 
-## 🤖 About Me
+## About Me
 
 I'm an **AI Engineer** focused on building practical, production-oriented AI systems using modern LLMs, agentic workflows, RAG, and automation technologies.
 
 I have hands-on experience building:
 
-- 🧠 LLM-powered applications and AI Agents
-- 📚 RAG and Agentic RAG systems
-- 💬 AI Chatbots and Conversational AI
-- 📞 AI Voice and Calling Agents
-- ⚙️ AI-powered business automation
-- 🔄 Agentic and multi-step workflows
-- 📱 WhatsApp AI assistants
-- 📊 AI-powered CRM systems
-- 📣 AI social media content generation and publishing automation
+- LLM-powered applications and AI Agents
+- RAG and Agentic RAG systems
+- AI Chatbots and Conversational AI
+- AI Voice and Calling Agents
+- AI-powered business automation
+- Agentic and multi-step workflows
+- WhatsApp AI assistants
+- AI-powered CRM systems
+- AI social media content generation and publishing automation
 
 I enjoy taking complex business problems and turning them into practical AI-powered solutions.
 
 ---
 
-## 🧠 AI & Generative AI
+## AI & Generative AI
 
 <div align="center">
 
@@ -73,9 +73,9 @@ I enjoy taking complex business problems and turning them into practical AI-powe
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Languages & Backend
+### Languages & Backend
 
 <div align="center">
 
@@ -91,7 +91,7 @@ I enjoy taking complex business problems and turning them into practical AI-powe
 
 </div>
 
-### 🎨 Frontend
+### Frontend
 
 <div align="center">
 
@@ -99,7 +99,7 @@ I enjoy taking complex business problems and turning them into practical AI-powe
 
 </div>
 
-### 🗄️ Databases & Vector Search
+### Databases & Vector Search
 
 <div align="center">
 
@@ -112,7 +112,7 @@ I enjoy taking complex business problems and turning them into practical AI-powe
 
 </div>
 
-### ⚙️ Automation & Integrations
+### Automation & Integrations
 
 <div align="center">
 
@@ -124,7 +124,7 @@ I enjoy taking complex business problems and turning them into practical AI-powe
 
 </div>
 
-### 🔧 Developer Tools
+### Developer Tools
 
 <div align="center">
 
@@ -173,19 +173,15 @@ I enjoy taking complex business problems and turning them into practical AI-powe
 
 ---
 
-GitHub Statistics
-<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ifham-Ansari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ifham-Ansari&layout=compact&theme=tokyonight&hide_border=true"/>
+## Contribution Snake
+<div align="center"> <img src="https://raw.githubusercontent.com/Ifham-Ansari/Ifham-Ansari/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"></div><br>
 
-<br><br>
+## Current Focus
+<div align="center"> <img src="https://img.shields.io/badge/Agentic%20AI-00D9FF?style=for-the-badge&logoColor=black"/> <img src="https://img.shields.io/badge/AI%20Agents-00D9FF?style=for-the-badge&logoColor=black"/> <img src="https://img.shields.io/badge/RAG-00D9FF?style=for-the-badge&logoColor=black"/> <img src="https://img.shields.io/badge/LLM%20Applications-00D9FF?style=for-the-badge&logoColor=black"/> <img src="https://img.shields.io/badge/AI%20Automation-00D9FF?style=for-the-badge&logoColor=black"/> </div><br>
 
-<img src="https://streak-stats.demolab.com?user=Ifham-Ansari&theme=tokyonight&hide_border=true"/> </div>
-Contribution Activity
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ifham-Ansari&theme=tokyo-night&hide_border=true&area=true"/> </div>
-Contribution Snake
-<div align="center"> <img src="https://raw.githubusercontent.com/Ifham-Ansari/Ifham-Ansari/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/> </div>
-Current Focus
-<div align="center"> <img src="https://img.shields.io/badge/Agentic%20AI-00D9FF?style=for-the-badge&logoColor=black"/> <img src="https://img.shields.io/badge/AI%20Agents-00D9FF?style=for-the-badge&logoColor=black"/> <img src="https://img.shields.io/badge/RAG-00D9FF?style=for-the-badge&logoColor=black"/> <img src="https://img.shields.io/badge/LLM%20Applications-00D9FF?style=for-the-badge&logoColor=black"/> <img src="https://img.shields.io/badge/AI%20Automation-00D9FF?style=for-the-badge&logoColor=black"/> </div>
-🤝 Let's Connect
+---
+
+## 🤝 Let's Connect
 <div align="center">
 
 I'm interested in building practical AI products, intelligent automation systems,
@@ -197,4 +193,4 @@ and AI-powered applications that solve real business problems.
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Let's+build+something+intelligent+%F0%9F%A4%96;Always+learning.+Always+building." /> </div> ```
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Let's+build+something+intelligent+%F0%9F%A4%96;Always+learning.+Always+building." /> </div>
