@@ -218,3 +218,31 @@ https://ezqanoon.com
                      ┌──────────────────────┐
                      │ Production AI System │
                      └──────────────────────┘
+
+---
+
+📊 GitHub Statistics
+<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ifham-Ansari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ifham-Ansari&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Ifham-Ansari&theme=tokyonight&hide_border=true"/> </div>
+📈 Contribution Activity
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ifham-Ansari&theme=tokyo-night&hide_border=true&area=true"/> </div>
+🐍 Contribution Snake
+<div align="center"> <img src="https://raw.githubusercontent.com/Ifham-Ansari/Ifham-Ansari/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/> </div>
+🎯 Current Focus
+<div align="center"> <img src="https://img.shields.io/badge/Agentic%20AI-00D9FF?style=for-the-badge&logoColor=black"/> <img src="https://img.shields.io/badge/AI%20Agents-00D9FF?style=for-the-badge&logoColor=black"/> <img src="https://img.shields.io/badge/RAG-00D9FF?style=for-the-badge&logoColor=black"/> <img src="https://img.shields.io/badge/LLM%20Applications-00D9FF?style=for-the-badge&logoColor=black"/> <img src="https://img.shields.io/badge/AI%20Automation-00D9FF?style=for-the-badge&logoColor=black"/> </div>
+🤝 Let's Connect
+<div align="center">
+
+I'm interested in building practical AI products, intelligent automation systems,
+and AI-powered applications that solve real business problems.
+
+<br><br>
+
+<a href="https://ifham-ansari-portfolio.netlify.app/"> <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Portfolio-00D9FF?style=for-the-badge"/> </a> <a href="https://www.linkedin.com/in/ifham-ansari-339428225/"> <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:ifhamansari933@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Let's+build+something+intelligent+%F0%9F%A4%96;Always+learning.+Always+building." /> </div> ```
