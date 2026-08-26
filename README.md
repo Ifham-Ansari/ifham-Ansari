@@ -142,16 +142,6 @@ I enjoy taking complex business problems and turning them into practical AI-powe
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:0D1117&height=3&section=header" width="100%" alt=""/>
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ifham-Ansari&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:0D1117&height=3&section=header" width="100%" alt=""/>
-
 ## Contribution Activity
 
 <div align="center">
